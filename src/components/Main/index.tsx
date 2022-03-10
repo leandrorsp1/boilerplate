@@ -17,5 +17,4 @@ const Main = ({
     />
   </S.Wrapper>
 )
-
 export default Main
